@@ -1,0 +1,6 @@
+{
+  "name": "Examify - Online Examination Platform",
+  "description": "Comprehensive online examination platform with timed assessments, instant scoring, question review, and test analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
